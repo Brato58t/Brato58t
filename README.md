@@ -14,6 +14,7 @@ Creo en la mentalidad MVP (Producto Mínimo Viable). Desarrollo rápido para val
 
 ### 📬 ¿Necesitas ayuda con tu proyecto?
 Si tienes un proyecto que necesita una auditoría de seguridad, una base de datos bien estructurada o resolver un bug complejo de lógica, estoy disponible para consultorías y desarrollo freelance.
+**porfavor usar el email de abajo para contactarme profesionalmente (email de trabajo)**
 
 *   **Discord:** [@brato58t_]
 *   **Email:** [Brato58t.correosecundario@gmail.com]
